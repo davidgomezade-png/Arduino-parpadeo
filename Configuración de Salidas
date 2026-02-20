@@ -20,3 +20,10 @@ void loop() {
   digitalWrite(5, HIGH); 
   delay(200); 
   digitalWrite(5, LOW);
+
+  // 🔹 Patrón 2: Todos parpadean
+  digitalWrite(2, HIGH);
+  digitalWrite(3, HIGH);
+  digitalWrite(4, HIGH);
+  digitalWrite(5, HIGH);
+  delay(300);
