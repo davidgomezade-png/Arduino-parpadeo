@@ -27,3 +27,9 @@ void loop() {
   digitalWrite(4, HIGH);
   digitalWrite(5, HIGH);
   delay(300);
+  digitalWrite(2, LOW);
+  digitalWrite(3, LOW);
+  digitalWrite(4, LOW);
+  digitalWrite(5, LOW);
+  delay(300);
+
